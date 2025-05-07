@@ -1,4 +1,4 @@
-## Hi there 👋
+## “local-dream” by xororz, [GitHub](https://github.com/xororz/local-dream),Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ko)
 
 <!--
 
