@@ -1,3 +1,6 @@
+ZOO: Zero One Organisms
+"Zero One"은 디지털 세계에서 자주 사용되는 개념으로, 0과 1로 이루어진 디지털 동물들이 창조되는 곳이라는 메시지를 담을 수 있어요.
+
 ## “local-dream” by xororz, [GitHub](https://github.com/xororz/local-dream), Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ko)
 
 <!--
