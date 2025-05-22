@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-# 1. Project Overview (프로젝트 개요)
+# 1. 프로젝트 개요
 ZOO: Zero One Organisms ["Zero One"은 디지털 세계에서 자주 사용되는 개념으로, 
 0과 1로 이루어진 디지털 동물들이 창조되는 곳이라는 의미를 담고 있습니다.]
 
@@ -14,7 +14,7 @@ ZOO: Zero One Organisms ["Zero One"은 디지털 세계에서 자주 사용되�
 <br/>
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+# 2. 팀원 및 팀 소개
 | 신유빈 | 박채연 | 신현수 | 송범록 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/5d7564a9-d246-4e71-9f53-d6f0f711282d" alt="신유빈" width="150"> | <img src="https://github.com/user-attachments/assets/6f2cf3aa-ba91-4888-bf84-76a1bb1204a3" alt="박채" width="150"> | <img src="https://github.com/user-attachments/assets/6cf6ae49-e37d-4dcc-a2d9-8602e51c83e2" alt="신현수" width="150"> | <img src="https://github.com/user-attachments/assets/6db1bcb8-b7d1-4142-aee7-6c8b8ef7aa72" alt="송범록" width="150"> |
