@@ -13,11 +13,11 @@ ZOO: Zero One Organisms
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-| 박채연 | 신유빈 | 신현수 | 송범록 |
+| 신유빈 | 박채연 | 신현수 | 송범록 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="박채연" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유q빈" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="신현수" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="송범록" width="150"> |
+| <img src="https://github.com/user-attachments/assets/5d7564a9-d246-4e71-9f53-d6f0f711282d" alt="신유빈" width="150"> | <img src="https://github.com/user-attachments/assets/6f2cf3aa-ba91-4888-bf84-76a1bb1204a3" alt="박채" width="150"> | <img src="https://github.com/user-attachments/assets/6cf6ae49-e37d-4dcc-a2d9-8602e51c83e2" alt="신현수" width="150"> | <img src="https://github.com/user-attachments/assets/6db1bcb8-b7d1-4142-aee7-6c8b8ef7aa72" alt="송범록" width="150"> |
 | FE | TL | AI | AI |
-| [GitHub](https://github.com/Bigdatabomb) | [GitHub](https://github.com/ubin-shin) | [GitHub](https://github.com/shinhyun-soo) | [GitHub](https://github.com/BeomRok) |
+| [GitHub](https://github.com/ubin-shin) | [GitHub](https://github.com/Bigdatabomb) | [GitHub](https://github.com/shinhyun-soo) | [GitHub](https://github.com/BeomRok) |
 
 # 3. 판넬
 
