@@ -23,11 +23,6 @@ ZOO: Zero One Organisms
 
 ![Image](https://github.com/user-attachments/assets/36b56eb5-a31e-454c-bf9c-4f7f0115523b)
 
-# ZOO – 상상의 동물 생성 어플
-
-## 프로젝트 개요
-**ZOO**는 유아가 직접 그린 상상의 동물을 스마트폰 카메라로 촬영하고, 음성으로 입력한 프롬프트를 통해 AI가 디지털 캐릭터로 재창조하는 On-Device AI 기반 창작 경험 제공 애플리케이션입니다.  
-생성된 이미지는 AR(증강현실)로 변환되어 아이들에게 몰입감 높은 인터랙티브 환경을 제공합니다.
 
 ---
 
