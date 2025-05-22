@@ -23,6 +23,49 @@ ZOO: Zero One Organisms
 
 ![Image](https://github.com/user-attachments/assets/36b56eb5-a31e-454c-bf9c-4f7f0115523b)
 
+# ZOO – 상상의 동물 생성 어플
+
+## 프로젝트 개요
+**ZOO**는 유아가 직접 그린 상상의 동물을 스마트폰 카메라로 촬영하고, 음성으로 입력한 프롬프트를 통해 AI가 디지털 캐릭터로 재창조하는 On-Device AI 기반 창작 경험 제공 애플리케이션입니다.  
+생성된 이미지는 AR(증강현실)로 변환되어 아이들에게 몰입감 높은 인터랙티브 환경을 제공합니다.
+
+---
+
+## 주요 기능
+- **음성 프롬프트 생성**  
+  Whisper 기반 음성 인식을 통해 사용자의 설명을 AI 프롬프트로 자동 변환
+- **AI 이미지 생성 & Inpainting**  
+  Stable Diffusion V2.1을 활용해 원본 스케치 보완 및 고해상도 디지털 아트워크 생성
+- **AR 시각화**  
+  ARCore를 통해 생성된 동물을 실제 공간에 배치하여 증강현실 경험 제공
+- **3D 프린터 출력 지원**  
+  AR 모델을 3D 프린터용 파일(STL)로 내보내어 실물 인형 제작 가능
+- **온디바이스 처리**  
+  Qualcomm QNN SDK 및 Snapdragon 8 Elite 칩셋 기반으로 모든 AI 연산을 디바이스 내에서 수행하여 데이터 보안성과 오프라인 접근성 확보
+
+---
+
+## 기술 스택
+
+| 구분       | 세부 항목                                                                                                    |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| **플랫폼** | Android                                                                                                      |
+| **칩셋**   | Qualcomm Snapdragon 8 Elite                                                                                  |
+| **개발 언어** | Kotlin, C++, Rust, Python                                                                                  |
+| **개발 도구** | Android Studio, CMake, Git                                                                                 |
+| **프레임워크/SDK** | ARCore, QNN SDK, local-dream (by xororz, CC BY-NC 4.0)                                                   |
+| **라이브러리** | Stable Diffusion V2.1, Whisper, tokenizer-cpp                                                             |
+
+---
+
+## 설치 및 실행
+
+1. 레포지토리 클론  
+   ```bash
+   git clone https://github.com/q-hans-coders/test.git
+   cd test
+
+
 <!--
 
 **Here are some ideas to get you started:**
