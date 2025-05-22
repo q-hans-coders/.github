@@ -19,6 +19,10 @@ ZOO: Zero One Organisms
 | FE | TL | AI | AI |
 | [GitHub](https://github.com/Bigdatabomb) | [GitHub](https://github.com/ubin-shin) | [GitHub](https://github.com/shinhyun-soo) | [GitHub](https://github.com/BeomRok) |
 
+# 3. 판넬
+
+![Image](https://github.com/user-attachments/assets/36b56eb5-a31e-454c-bf9c-4f7f0115523b)
+
 <!--
 
 **Here are some ideas to get you started:**
