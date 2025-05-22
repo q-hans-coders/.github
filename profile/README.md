@@ -16,7 +16,7 @@ ZOO: Zero One Organisms
 | 신유빈 | 박채연 | 신현수 | 송범록 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/5d7564a9-d246-4e71-9f53-d6f0f711282d" alt="신유빈" width="150"> | <img src="https://github.com/user-attachments/assets/6f2cf3aa-ba91-4888-bf84-76a1bb1204a3" alt="박채" width="150"> | <img src="https://github.com/user-attachments/assets/6cf6ae49-e37d-4dcc-a2d9-8602e51c83e2" alt="신현수" width="150"> | <img src="https://github.com/user-attachments/assets/6db1bcb8-b7d1-4142-aee7-6c8b8ef7aa72" alt="송범록" width="150"> |
-| FE | TL | AI | AI |
+| TL | BE | AI | AI |
 | [GitHub](https://github.com/ubin-shin) | [GitHub](https://github.com/Bigdatabomb) | [GitHub](https://github.com/shinhyun-soo) | [GitHub](https://github.com/BeomRok) |
 
 # 3. 판넬
