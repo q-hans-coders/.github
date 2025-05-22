@@ -22,6 +22,7 @@ ZOO: Zero One Organisms
 # 3. 판넬
 
 ![Image](https://github.com/user-attachments/assets/36b56eb5-a31e-454c-bf9c-4f7f0115523b)
+[Uploading 78조__Q-Hans Coders_신유빈_01075157085_판넬..pdf…]()
 
 
 ---
