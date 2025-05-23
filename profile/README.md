@@ -23,7 +23,7 @@ ZOO: Zero One Organisms ["Zero One"은 디지털 세계에서 자주 사용되�
 
 # 3. 판넬
 
-![Image](https://github.com/user-attachments/assets/36b56eb5-a31e-454c-bf9c-4f7f0115523b)
+![Image](https://github.com/user-attachments/assets/561c4f79-440a-4b9b-81e7-7cc290ea70d7)
 
 
 ---
