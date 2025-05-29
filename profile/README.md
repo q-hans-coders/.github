@@ -55,7 +55,7 @@ ZOO: Zero One Organisms ["Zero One"은 디지털 세계에서 자주 사용되�
 
 ---
 ## 시현 영상
-https://youtube.com/shorts/VbCQbg2jbtA?si=LIHndwjw75J3M3V3
+https://youtube.com/shorts/puMkhkcpDlE?si=jdNh0auW4IgcdVSA
 ---
 ## 설치 및 실행
 
