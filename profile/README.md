@@ -21,7 +21,7 @@ ZOO: Zero One Organisms ["Zero One"은 디지털 세계에서 자주 사용되�
 | TL | BE | AI | AI |
 | [GitHub](https://github.com/ubin-shin) | [GitHub](https://github.com/Bigdatabomb) | [GitHub](https://github.com/shinhyun-soo) | [GitHub](https://github.com/BeomRok) |
 
-# 3. 판넬
+# 3. 작품 소개
 
 ![Image](https://github.com/user-attachments/assets/561c4f79-440a-4b9b-81e7-7cc290ea70d7)
 
