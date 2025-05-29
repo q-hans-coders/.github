@@ -54,7 +54,8 @@ ZOO: Zero One Organisms ["Zero One"은 디지털 세계에서 자주 사용되�
 | **라이브러리** | Stable Diffusion V2.1, Whisper, tokenizer-cpp                                                             |
 
 ---
-# 1. 실행 영상
+# 시현 영상
+https://youtube.com/shorts/VbCQbg2jbtA?si=LIHndwjw75J3M3V3
 ---
 ## 설치 및 실행
 
